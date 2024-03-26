@@ -19,7 +19,7 @@ Once the application scripts are in place, start the server (which will provide 
 node server/server.js
 ```
 
-Afterwards, open a second Terminal window and run the [webpack development server](http://webpack.github.io/docs/webpack-dev-server.html). It will watch for changes with **hot reloading**:
+Afterwards, open a second Terminal window and run the [webpack development server]:
 
 ```bash
 npm run dev
